@@ -49,4 +49,4 @@ UI = f(state)
 - solidart
 - flutter_reactive_value
 
-> Flutter에는 State Management를 할 수 있는 방법이 여러가지가 있다. 다음 글에서는 사람들이 많이 사용하고 있고 기업에서도 많이 사용하고 있는 **Provider, GetX, Riverpod, BLoC**에 대해 자세하게 알아보겠다
+> Flutter에는 State Management를 할 수 있는 방법이 여러가지가 있다. 다음 글에서는 사람들이 많이 사용하고 있고 기업에서도 많이 사용하고 있는 **Provider, GetX, Riverpod, BLoC**에 대해 자세하게 알아보겠다.
